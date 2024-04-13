@@ -1,8 +1,7 @@
 ### Hi there! 👋 I'm Marco, a student deeply immersed in the world of computer science and engineering. While navigating through my academic journey, I've explored a plethora of programming languages, including Python, C and JavaScript.
-========================================================================================
+
 
 BackEnd developer and Designer
-------------------------------
 
 I've been learning to code for 3 years. I started with HTML, but have really found a passion for backend development
 
