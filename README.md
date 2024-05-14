@@ -6,7 +6,7 @@ BackEnd developer and Designer
 I've been learning to code for 3 years. I started with HTML, but have really found a passion for backend development
 
 * 🌍  I'm based in Italy
-* 🧠  I'm learning SQL and framework Flask
+* 🧠  I'm learning react and Flask
 
 ### Skills
 
