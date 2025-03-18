@@ -8,6 +8,8 @@ I've been learning to code for 3 years. I started with HTML, but have really fou
 * 🌍  I'm based in Italy
 * 🧠  I'm learning react and Flask
 
+######Pin Segreto: 1928374655
+
 ### Skills
 
 
