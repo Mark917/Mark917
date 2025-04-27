@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm @Mark917, a student deeply immersed in the world of computer science and engineering. While navigating through my academic journey, I've explored a plethora of programming languages, including Python, C and JavaScript.
+### Hi there! 👋 I'm [@Mark917](https://github.com/Mark917), a student deeply immersed in the world of computer science and engineering. While navigating through my academic journey, I've explored a plethora of programming languages, including Python, C and JavaScript.
 
 
 BackEnd developer and Designer
